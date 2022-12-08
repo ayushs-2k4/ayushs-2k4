@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Structures and Algorithms
 - 🌱 I’m currently doing LeetCode
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Email - ayushsinghals02@gmail.com
 
 <!---
 ayushs-2k4/ayushs-2k4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
