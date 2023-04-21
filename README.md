@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayushs-2k4
 - 👀 I’m interested in Data Structures and Algorithms
-- 🌱 I’m currently doing LeetCode
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me Email - ayushsinghals02@gmail.com
 
 <!---
