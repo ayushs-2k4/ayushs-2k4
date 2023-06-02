@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ayush Singhal<br>👀 I’m interested in Data Structures and Algorithms<br>🌱 I’m currently learning Android Development<br>💞️ I’m looking to collaborate on Android Development projects<br>📫 How to reach me Email - ayushsinghals02@gmail.com
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="25" height="25"/> Hi, I’m Ayush Singhal<br>👀 I’m interested in Data Structures and Algorithms<br>🌱 I’m currently learning Android Development<br>💞️ I’m looking to collaborate on Android Development projects<br>📫 How to reach me Email - ayushsinghals02@gmail.com
 
 
 ## 🌐 Socials:
