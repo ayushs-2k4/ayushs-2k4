@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ayushs-2k4<br>👀 I’m interested in Data Structures and Algorithms<br>🌱 I’m currently learning Machine Learning<br>💞️ I’m looking to collaborate on Machine Learning projects<br>📫 How to reach me Email - ayushsinghals02@gmail.com
+👋 Hi, I’m Ayush Singhal<br>👀 I’m interested in Data Structures and Algorithms<br>🌱 I’m currently learning Machine Learning<br>💞️ I’m looking to collaborate on Machine Learning projects<br>📫 How to reach me Email - ayushsinghals02@gmail.com
 
 
 ## 🌐 Socials:
